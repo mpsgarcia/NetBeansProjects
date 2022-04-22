@@ -21,6 +21,15 @@ public class Aula02 {
         c2.tampar();
         c2.status();
         c2.rabiscar(); 
+
+        // Caneta 03 
+        
+        Caneta c3 = new Caneta();
+        c3.modelo = "Muji";
+        c3.cor = "Vermelho";
+        c3.tampar();
+        c3.status();
+        c3.rabiscar();
         
     }
 }
